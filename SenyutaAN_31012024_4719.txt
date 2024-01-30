@@ -1,0 +1,82 @@
+  782  ls
+
+  783  cat pets.csv
+
+  784  cat > pets.csv
+
+  785  cat pets.csv 
+
+  786  cat > packAnimals.csv
+
+  787  cat packAnimals.csv 
+
+  788  cat pets.csv packAnimals.csv > humanFriends.csv
+
+  789  cat humanFriends.csv 
+
+  790  ls
+
+  791  mkdir newDir
+
+  792  mv humanFriends.csv newDir/
+
+  793  cd newDir/
+
+  794  ls
+
+  795  hostnamects
+
+  796  hostnamectl
+
+  797  wget https://dev.mysql.com/downloads/file/?id=524196
+
+  798  ls
+
+  799  rm index.html\?id\=524196 
+
+  800  ls
+
+  801  wget https://dev.mysql.com/get/mysql-apt-config_0.8.29-1_all.deb
+
+  802  ls
+
+  803  sudo dpkg -i mysql-apt-config_0.8.29-1_all.deb 
+
+  804  sudo apt update
+
+  805  sudo apt install mysql-server mysql-client
+
+  806  mysql
+
+  807  mysql info
+
+  808  sudo sa
+
+  809  sudo su
+
+  810  sudo apt download zip
+
+  811  ls
+
+  812  dpkg -i zip_3.0-12build2_amd64.deb 
+
+  813  sudo dpkg -i zip_3.0-12build2_amd64.deb 
+
+  814  zip --help
+
+  815  apt-cache zip
+
+  816  apt-cache mysql
+
+  817  dpkg -l
+
+  818  sudo dpkg -r zip
+
+  819  zip --help
+
+  820  sudo dpkg -i zip_3.0-12build2_amd64.deb 
+
+  821  sudo dpkg -r zip
+
+  822  history
+
